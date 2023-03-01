@@ -1,2 +1,2 @@
-# brain_tumor
+# Brain Tumor
 First model
